@@ -1,0 +1,7 @@
+/.coverage.out
+/.idea/
+
+/*.iml
+/**/*_string.go
+
+/gdns
